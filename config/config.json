@@ -1,0 +1,15 @@
+{
+	"user":"sa",
+	"password":"Teamwork@2021",
+	"database":"alm",
+	"host" : "103.146.177.220",
+	"server": "103.146.177.220",
+    "connector": "mssql",
+	"options":{
+		"trustedconnection": true,
+		"enableArithAbort": true,
+		"instancename": "MSSQLSERVER2017",
+		"trustServerCertificate":true
+	},
+	"port":1433
+}
